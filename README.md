@@ -1,7 +1,6 @@
-#Telegram Bot : Whale Watcher
+# Telegram Bot : Whale Watcher
 
-#### A straight forwards telegram bot written in python to track whales activity on multiple blockchains, using whales-alert.io APIs
-#### [whale-alert api docs](https://docs.whale-alert.io/).
+#### A straightforward telegram bot written in python to track whales activity on multiple blockchains, using [whale-alert API](https://docs.whale-alert.io/)
 
 ## Installation
 #### 
